@@ -1,1 +1,1 @@
-string = 'Hola'
+string = 'Hola, ¿cómo estás?'
